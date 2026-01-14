@@ -1,0 +1,12 @@
+{
+  "name": "my-service",
+  "version": "1.0.1",
+  "description": "Simple Node.js service that logs messages at intervals",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

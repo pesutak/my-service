@@ -7,6 +7,7 @@ console.log(`Starting service - will log "${WHAT}" every ${INTERVAL}ms`);
 // devel
 // feature 1
 // feature 2
+// feature 3
 
 setInterval(() => {
   console.log(WHAT);
